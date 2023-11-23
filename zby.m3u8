@@ -24,7 +24,7 @@ http://221.0.78.198:2381/hls/20221/index.m3u8
 http://221.0.78.198:2381/hls/20222/index.m3u8
 #EXTINF:-1 tvg-id="山东综艺" tvg-name="山东综艺"
 rtmp://livealone.iqilu.com/iqilu/zypdhjOF03kn
-#EXTINF:-1 tvg-id="山东体育HD" tvg-name="山东体育HD"
+#EXTINF:-1 group-title="体育",山东体育
 http://fangke.blueswords.com:9901/tsfile/live/0111_1.m3u8
-#EXTINF:-1 tvg-id="山东体育" tvg-name="山东体育"
+#EXTINF:-1 tvg-id="山东体育" tvg-name="山东体育" group-title="体育",山东体育
 rtmp://livealone.iqilu.com/iqilu/typdhjOF03kn
