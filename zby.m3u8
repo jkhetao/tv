@@ -10,21 +10,21 @@ http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.flv
 http://livealone.iqilu.com/iqilu/typdhjOF03kn.flv
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="LOGO网址" group-title="卫视",北京卫视
 https://live.sjsrm.com/bjsjs/sd/live.m3u8
-#EXTINF:-1 tvg-id="cctv8"
+#EXTINF:-1 tvg-id="cctv8" tvg-name="cctv8"
 http://maomao.kandiantv.cn/m3u8.php/migu/624878356
-#EXTINF:-1 tvg-id="cctv13"
+#EXTINF:-1 tvg-id="cctv13" tvg-name="cctv13"
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8?auth_key=1635962688-0-e013f973588e41599d7751a912170d78-fd33c55f8befe5c00fb32fee650348c0?zyangd
-#EXTINF:-1 tvg-id="cctv1"
+#EXTINF:-1 tvg-id="cctv1" tvg-name="cctv1"
 http://l6.weihai.tv:8081/hls/rSwuMs738s.m3u8
-#EXTINF:-1 tvg-id="QTV1"
+#EXTINF:-1 tvg-id="QTV1" tvg-name="QTV1"
 http://221.0.78.198:2381/hls/20220/index.m3u8
-#EXTINF:-1 tvg-id="QTV2"
+#EXTINF:-1 tvg-id="QTV2" tvg-name="QTV2"
 http://221.0.78.198:2381/hls/20221/index.m3u8
-#EXTINF:-1 tvg-id="QTV3"
+#EXTINF:-1 tvg-id="QTV3" tvg-name="QTV3"
 http://221.0.78.198:2381/hls/20222/index.m3u8
-#EXTINF:-1 tvg-id="山东综艺"
+#EXTINF:-1 tvg-id="山东综艺" tvg-name="山东综艺"
 rtmp://livealone.iqilu.com/iqilu/zypdhjOF03kn
-#EXTINF:-1 tvg-id="山东体育HD"
+#EXTINF:-1 tvg-id="山东体育HD" tvg-name="山东体育HD"
 http://fangke.blueswords.com:9901/tsfile/live/0111_1.m3u8
-#EXTINF:-1 tvg-id="山东体育"
+#EXTINF:-1 tvg-id="山东体育" tvg-name="山东体育"
 rtmp://livealone.iqilu.com/iqilu/typdhjOF03kn
