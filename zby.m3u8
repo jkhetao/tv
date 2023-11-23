@@ -8,9 +8,9 @@ http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.flv
 http://livealone.iqilu.com/iqilu/typdhjOF03kn.flv
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="LOGO网址" group-title="卫视",北京卫视
 https://live.sjsrm.com/bjsjs/sd/live.m3u8
-#EXTINF:-1 tvg-name="CCTV2"
-https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV5"
-https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV1"
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="LOGO网址" group-title="央视",CCTV1
 http://tvpull.dxhmt.cn/tv/11481-4.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="LOGO网址" group-title="央视",CCTV2
+https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="LOGO网址" group-title="央视",CCTV8
+http://cfss.cc/api/ysp/cctv8.m3u8
