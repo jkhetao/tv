@@ -54,3 +54,5 @@ http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8
 http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.m3u8
 #EXTINF:-1 tvg-id="QTV-1" tvg-name="QTV-1" tvg-logo="LOGO网址" group-title="青岛",QTV-1
 http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
+#EXTINF:-1 tvg-id="QTV-1" tvg-name="QTV-1" tvg-logo="LOGO网址" group-title="青岛",QTV-1
+http://221.0.78.198:1681/hls/10201/index.m3u8
