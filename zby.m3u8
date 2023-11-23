@@ -47,11 +47,11 @@ http://stream10.fjtv.net/cctv13/hd/live.m3u8?_upt=78eb068c1700758898
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="LOGO网址" group-title="央视",CCTV14
 http://120.196.232.27:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226645/1.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="LOGO网址" group-title="央视",CCTV15
-http://113.207.84.200/session/4054795a-8a09-11ee-8422-525400dfb345$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cctv15HD/__op/default/__f/2/v4M/index.m3u8
+http://120.196.232.38:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226648/1.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="LOGO网址" group-title="央视",CCTV16
-http://113.207.84.200/session/62110842-8a09-11ee-94c9-5254004d191c$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cctv16HD/__op/default/__f/4/v4M/index.m3u8
+http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="LOGO网址" group-title="央视",CCTV17
-http://113.207.84.200/session/87273084-8a09-11ee-bcbe-5254006225bb$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cctv17HD/__op/default/__f/2/v6M/index.m3u8
+http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.m3u8
 #EXTINF:-1 tvg-id="CHC电影频道" tvg-name="CHC电影频道" tvg-logo="LOGO网址" group-title="央视",CHC电影频道
 http://113.207.84.196/session/b142a564-8a0f-11ee-bcbe-5254006225bb$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/2/v4M/index.m3u8
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="LOGO网址" group-title="央视",CHC家庭影院
