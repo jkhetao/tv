@@ -19,7 +19,7 @@ http://livealone.iqilu.com/iqilu/shpdhjOF03kn.flv
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="LOGO网址" group-title="卫视",北京卫视
 https://live.sjsrm.com/bjsjs/sd/live.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="LOGO网址" group-title="央视",CCTV1
-http://stream10.fjtv.net/cctv1/playlist.m3u8?_upt=dbcce37a1700755737
+http://120.196.232.19:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="LOGO网址" group-title="央视",CCTV2
 http://120.196.232.54:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="LOGO网址" group-title="央视",CCTV3
@@ -43,7 +43,7 @@ http://120.196.232.55:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="LOGO网址" group-title="央视",CCTV12
 http://120.196.232.51:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226723/1.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="LOGO网址" group-title="央视",CCTV13
-http://stream10.fjtv.net/cctv13/hd/live.m3u8?_upt=78eb068c1700758898
+http://120.196.232.21:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226717/1.m3u8
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="LOGO网址" group-title="央视",CCTV14
 http://120.196.232.27:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226645/1.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="LOGO网址" group-title="央视",CCTV15
@@ -52,7 +52,4 @@ http://120.196.232.38:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226648/1.m3u8
 http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="LOGO网址" group-title="央视",CCTV17
 http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.m3u8
-#EXTINF:-1 tvg-id="QTV-1" tvg-name="QTV-1" tvg-logo="LOGO网址" group-title="青岛",QTV-1
-http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
-#EXTINF:-1 tvg-id="QTV-1" tvg-name="QTV-1" tvg-logo="LOGO网址" group-title="青岛",QTV-1
-http://221.0.78.198:1681/hls/10201/index.m3u8
+
