@@ -1,4 +1,16 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-id="QTV-1" tvg-name="QTV-1" tvg-logo="LOGO网址" group-title="青岛",QTV-1
+http://yutv.87960000.com:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="QTV-2" tvg-name="QTV-2" tvg-logo="LOGO网址" group-title="青岛",QTV-2
+http://yutv.87960000.com:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="QTV-3" tvg-name="QTV-3" tvg-logo="LOGO网址" group-title="青岛",QTV-3
+http://yutv.87960000.com:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="QTV-4" tvg-name="QTV-4" tvg-logo="LOGO网址" group-title="青岛",QTV-4
+http://yutv.87960000.com:9901/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="QTV-5" tvg-name="QTV-5" tvg-logo="LOGO网址" group-title="青岛",QTV-5
+http://yutv.87960000.com:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="QTV-6" tvg-name="QTV-6" tvg-logo="LOGO网址" group-title="青岛",QTV-6
+http://yutv.87960000.com:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="LOGO网址" group-title="卫视",山东卫视
 http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.flv
 #EXTINF:-1 tvg-id="山东综艺" tvg-name="山东综艺" tvg-logo="LOGO网址" group-title="综艺",山东综艺
