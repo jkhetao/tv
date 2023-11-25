@@ -38,4 +38,4 @@ http://120.196.232.17:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226715/1.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="LOGO网址" group-title="卫视",北京卫视
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1700887677&sign=0af6240cb982baa213734d11cd7c70c9
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="LOGO网址" group-title="卫视",辽宁卫视
-https://iptv.luas.edu.cn/liverespath/2844a81a1ac7f57ada10433dacb258b595a3a774/index.m3u8
+http://120.196.232.21:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226689/1.m3u8
