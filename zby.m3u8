@@ -31,38 +31,10 @@ http://livealone.iqilu.com/iqilu/yspdhjOF03kn.flv
 http://livealone.iqilu.com/iqilu/shpdhjOF03kn.flv
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="LOGO网址" group-title="央视",CCTV1
 https://ldncctvwbndtxy.liveplay.myqcloud.com/ldncctvwbnd/ldcctv1_2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="LOGO网址" group-title="央视",CCTV2
-http://120.196.232.54:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="LOGO网址" group-title="央视",CCTV3
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="LOGO网址" group-title="央视",CCTV4
-http://120.196.232.27:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226725/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="LOGO网址" group-title="央视",CCTV5
-http://120.196.232.31:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="LOGO网址" group-title="央视",CCTV6
-https://media.hndyjyfw.gov.cn/live/jz-cctv-6/live.m3u8
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="LOGO网址" group-title="央视",CCTV7
-https://media.hndyjyfw.gov.cn/live/jz-cctv-7/live.m3u8
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="LOGO网址" group-title="央视",CCTV8
 http://120.196.232.17:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226715/1.m3u8
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="LOGO网址" group-title="央视",CCTV9
-https://media.hndyjyfw.gov.cn/live/jz-cctv-9/live.m3u8
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="LOGO网址" group-title="央视",CCTV10
-https://media.hndyjyfw.gov.cn/live/jz-cctv-10/live.m3u8
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="LOGO网址" group-title="央视",CCTV11
-https://media.hndyjyfw.gov.cn/live/jz-cctv-11/live.m3u8
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="LOGO网址" group-title="央视",CCTV12
-https://media.hndyjyfw.gov.cn/live/jz-cctv-12/live.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="LOGO网址" group-title="央视",CCTV13
-https://media.hndyjyfw.gov.cn/live/jz-cctv-13/live.m3u8
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="LOGO网址" group-title="央视",CCTV14
-https://media.hndyjyfw.gov.cn/live/jz-cctv-14/live.m3u8
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="LOGO网址" group-title="央视",CCTV15
-http://120.196.232.38:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226648/1.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="LOGO网址" group-title="央视",CCTV16
-http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="LOGO网址" group-title="央视",CCTV17
-http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="LOGO网址" group-title="卫视",北京卫视
 http://120.196.232.46:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226719/1.m3u8
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="LOGO网址" group-title="卫视",辽宁卫视
